@@ -29,5 +29,4 @@ Open the notebook in `/notebooks` and run cells top-to-bottom.
 
 ## Author
 Nimra Khan
-Nimra Khan
 
