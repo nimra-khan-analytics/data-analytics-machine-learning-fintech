@@ -18,11 +18,19 @@ construction, and time-series forecasting/volatility modelling.
 - Visualisation: matplotlib
 
 ## Key outputs
-See the `/images` folder for:
-- ML evaluation summary
-- K-means elbow method
-- Efficient frontier / capital market line
-- GARCH conditional volatility
+
+### Efficient frontier and capital market line
+![Efficient Frontier](images/efficient-frontier.png)
+
+### K-means clustering (elbow method)
+![K-means Elbow](images/kmeans-elbow.png)
+
+### Machine learning model performance comparison
+![ML Performance](images/ml-model-performance.png)
+
+### GARCH conditional volatility (cryptocurrency)
+![GARCH Volatility](images/garch-crypto-volatility.png)
+
 
 ## How to run
 Open the notebook in `/notebooks` and run cells top-to-bottom.
